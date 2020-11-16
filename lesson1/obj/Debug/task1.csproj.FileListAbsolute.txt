@@ -1,0 +1,6 @@
+C:\Users\Ник\source\lesson1\lesson1\lesson1\bin\Debug\lesson1.exe.config
+C:\Users\Ник\source\lesson1\lesson1\lesson1\bin\Debug\lesson1.exe
+C:\Users\Ник\source\lesson1\lesson1\lesson1\bin\Debug\lesson1.pdb
+C:\Users\Ник\source\lesson1\lesson1\lesson1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+C:\Users\Ник\source\lesson1\lesson1\lesson1\obj\Debug\lesson1.exe
+C:\Users\Ник\source\lesson1\lesson1\lesson1\obj\Debug\lesson1.pdb
