@@ -1,0 +1,7 @@
+C:\Users\Ник\source\lesson2\lesson2\task6\obj\Debug\task6.csprojAssemblyReference.cache
+C:\Users\Ник\source\lesson2\lesson2\task6\obj\Debug\task6.csproj.CoreCompileInputs.cache
+C:\Users\Ник\source\lesson2\lesson2\task6\bin\Debug\task6.exe.config
+C:\Users\Ник\source\lesson2\lesson2\task6\bin\Debug\task6.exe
+C:\Users\Ник\source\lesson2\lesson2\task6\bin\Debug\task6.pdb
+C:\Users\Ник\source\lesson2\lesson2\task6\obj\Debug\task6.exe
+C:\Users\Ник\source\lesson2\lesson2\task6\obj\Debug\task6.pdb
